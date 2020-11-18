@@ -361,10 +361,9 @@ template {
 .wrapper {
   background-color: #fff;
   margin: 0 auto;
-  padding: 40px;
   display: flex;
   flex-direction: row;
-  width: 1280px;
+  width: 1200px;
 }
 .main_info {
   padding: 30px;
