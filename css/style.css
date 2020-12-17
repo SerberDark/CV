@@ -373,6 +373,7 @@ template {
 aside {
   background: #1e2939;
   padding-top: 40px;
+  width: 370px;
 }
 aside img {
   width: 370px;
@@ -445,13 +446,17 @@ aside ul li::marker {
 }
 .about_mi_container ol li::marker {
   font-weight: 700;
-  color: #000000;
+  color: rgba(0, 199, 133, 0.925);
 }
 .about_mi_container ul li::marker {
   color: #ff6b08;
 }
 .projects_container .bracket {
   color: rgba(0, 199, 133, 0.925);
+}
+.projects_container ol {
+  list-style-type: none;
+  padding-left: 0;
 }
 .proffesion,
 .fio {
