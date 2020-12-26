@@ -458,6 +458,9 @@ aside ul li::marker {
   list-style-type: none;
   padding-left: 0;
 }
+.certificate_container {
+  margin-top: 30px;
+}
 .proffesion,
 .fio {
   margin-bottom: 30px;
